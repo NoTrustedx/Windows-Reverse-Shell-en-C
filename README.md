@@ -57,7 +57,7 @@ Cambia estos valores según tu IP y puerto antes de compilar si deseas adaptar l
 
 ## 👨‍💻 Autor
 
-Erick O.
+ErickO
 🔗 GitHub: [@NoTrustedx](https://github.com/NoTrustedx)
 
 ## 📄 Licencia
